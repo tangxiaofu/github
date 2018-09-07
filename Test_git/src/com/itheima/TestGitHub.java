@@ -6,4 +6,9 @@ public class TestGitHub {
         System.out.println("hahaahhaha");
         System.out.println("hahaahhaha");
     }
+
+    public void find(){
+        int a =1;
+        int b =2;
+    }
 }
